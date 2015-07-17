@@ -1,0 +1,6 @@
+print feature_engg_lassocv_mse_test
+print svr_rbf_mse_test
+print svr_rbf_tune_mse_test
+print simple_tree_mse_test
+print pruned_tree_mse_test
+print gbr_mse_test
